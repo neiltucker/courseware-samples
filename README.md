@@ -3,4 +3,4 @@ Download free examples of courses built using AI on https://www.coursewarestudio
 
 
 ## Note:
-These archives only contain content and student files.  Instructor content, preparation, PPTX and DOCX files have been excluded.
+These archives only contain content and student files.  Instructor content, preparation, PPTX and DOCX files may be requested.
