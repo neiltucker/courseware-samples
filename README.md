@@ -1,5 +1,5 @@
 # Courseware-Samples:
-Download free examples of courses built using AI on https://www.coursewarestudio.ai
+Download free examples of courseware built using AI on https://www.coursewarestudio.ai
 
 
 ## Note:
